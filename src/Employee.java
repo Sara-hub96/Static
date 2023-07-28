@@ -21,8 +21,6 @@ public class Employee {
      String  employeeDetails = "Name: " + name + ", Surname: " + surname + ", Address: " + address;
      return  employeeDetails;
 }
-
-
 }
 
 
